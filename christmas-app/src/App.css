@@ -39,8 +39,8 @@
   background: #9198e5;
 }
 .input {
-  margin-left: 38%;
-  margin-top: 50%;
+  margin-top: 10%;
+  margin-left: 45%;
 }
 .click {
   width: 80px;
@@ -48,7 +48,7 @@
   border-radius: 5px;
   background: #e66465;
   border: none;
-  margin-left: 46%;
+  margin-left: 48%;
   margin-top: 10px;
 }
 .text {
